@@ -50,7 +50,7 @@ const questionSet = [
       ans1: `Kareem Abduhl Jabaar`,
       ans2: `Michael Jordan`,
       ans3: `Kobe Bryant`,
-      ans4: `San Antonio Spurs`
+      ans4: `Lebron James`
     },
     
     {
